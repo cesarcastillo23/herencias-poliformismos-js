@@ -1,0 +1,17 @@
+{
+  "name": "cuentasbancopopular",
+  "version": "1.0.0",
+  "description": "gestion de cuentas cuentas corrientes Banco Popular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
+  },
+  "author": "Curso alura",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {}
+}
